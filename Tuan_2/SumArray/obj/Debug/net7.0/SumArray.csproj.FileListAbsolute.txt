@@ -1,0 +1,15 @@
+C:\Users\VM\Desktop\Tuan_2\SumArray\bin\Debug\net7.0\SumArray.exe
+C:\Users\VM\Desktop\Tuan_2\SumArray\bin\Debug\net7.0\SumArray.deps.json
+C:\Users\VM\Desktop\Tuan_2\SumArray\bin\Debug\net7.0\SumArray.runtimeconfig.json
+C:\Users\VM\Desktop\Tuan_2\SumArray\bin\Debug\net7.0\SumArray.dll
+C:\Users\VM\Desktop\Tuan_2\SumArray\bin\Debug\net7.0\SumArray.pdb
+C:\Users\VM\Desktop\Tuan_2\SumArray\obj\Debug\net7.0\SumArray.csproj.AssemblyReference.cache
+C:\Users\VM\Desktop\Tuan_2\SumArray\obj\Debug\net7.0\SumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM\Desktop\Tuan_2\SumArray\obj\Debug\net7.0\SumArray.AssemblyInfoInputs.cache
+C:\Users\VM\Desktop\Tuan_2\SumArray\obj\Debug\net7.0\SumArray.AssemblyInfo.cs
+C:\Users\VM\Desktop\Tuan_2\SumArray\obj\Debug\net7.0\SumArray.csproj.CoreCompileInputs.cache
+C:\Users\VM\Desktop\Tuan_2\SumArray\obj\Debug\net7.0\SumArray.dll
+C:\Users\VM\Desktop\Tuan_2\SumArray\obj\Debug\net7.0\refint\SumArray.dll
+C:\Users\VM\Desktop\Tuan_2\SumArray\obj\Debug\net7.0\SumArray.pdb
+C:\Users\VM\Desktop\Tuan_2\SumArray\obj\Debug\net7.0\SumArray.genruntimeconfig.cache
+C:\Users\VM\Desktop\Tuan_2\SumArray\obj\Debug\net7.0\ref\SumArray.dll

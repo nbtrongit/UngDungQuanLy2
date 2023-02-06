@@ -1,0 +1,16 @@
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\bin\Debug\WPF_Bacic.exe.config
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\bin\Debug\WPF_Bacic.exe
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\bin\Debug\WPF_Bacic.pdb
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\WPF_Bacic.csproj.AssemblyReference.cache
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\WPF_Bacic.csproj.SuggestedBindingRedirects.cache
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\MainWindow.g.cs
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\App.g.cs
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\WPF_Bacic_MarkupCompile.cache
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\WPF_Bacic_MarkupCompile.lref
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\MainWindow.baml
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\WPF_Bacic.g.resources
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\WPF_Bacic.Properties.Resources.resources
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\WPF_Bacic.csproj.GenerateResource.cache
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\WPF_Bacic.csproj.CoreCompileInputs.cache
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\WPF_Bacic.exe
+C:\Users\VM\Desktop\Tuan_2\WPF_Bacic\obj\Debug\WPF_Bacic.pdb

@@ -1,0 +1,13 @@
+﻿<Window x:Class="WPF_Bacic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Bacic"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="291" Width="496">
+    <Canvas>
+        <Button x:Name="NutHello" Width="80" Height="35" Click="suKien_NutHello" Content="Hello" Canvas.Left="170" Canvas.Top="170"></Button>
+        <Image Width="100" Height="100" Canvas.Left="160" Canvas.Top="51" Source="/Images/avatar.jpg"></Image>
+    </Canvas>
+</Window>
