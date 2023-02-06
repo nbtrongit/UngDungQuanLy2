@@ -1,0 +1,15 @@
+C:\Users\VM\Desktop\Tuan_1\obj\Debug\net7.0\Tuan_1.csproj.AssemblyReference.cache
+C:\Users\VM\Desktop\Tuan_1\obj\Debug\net7.0\Tuan_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM\Desktop\Tuan_1\obj\Debug\net7.0\Tuan_1.AssemblyInfoInputs.cache
+C:\Users\VM\Desktop\Tuan_1\obj\Debug\net7.0\Tuan_1.AssemblyInfo.cs
+C:\Users\VM\Desktop\Tuan_1\obj\Debug\net7.0\Tuan_1.csproj.CoreCompileInputs.cache
+C:\Users\VM\Desktop\Tuan_1\bin\Debug\net7.0\Tuan_1.exe
+C:\Users\VM\Desktop\Tuan_1\bin\Debug\net7.0\Tuan_1.deps.json
+C:\Users\VM\Desktop\Tuan_1\bin\Debug\net7.0\Tuan_1.runtimeconfig.json
+C:\Users\VM\Desktop\Tuan_1\bin\Debug\net7.0\Tuan_1.dll
+C:\Users\VM\Desktop\Tuan_1\bin\Debug\net7.0\Tuan_1.pdb
+C:\Users\VM\Desktop\Tuan_1\obj\Debug\net7.0\Tuan_1.dll
+C:\Users\VM\Desktop\Tuan_1\obj\Debug\net7.0\refint\Tuan_1.dll
+C:\Users\VM\Desktop\Tuan_1\obj\Debug\net7.0\Tuan_1.pdb
+C:\Users\VM\Desktop\Tuan_1\obj\Debug\net7.0\Tuan_1.genruntimeconfig.cache
+C:\Users\VM\Desktop\Tuan_1\obj\Debug\net7.0\ref\Tuan_1.dll
