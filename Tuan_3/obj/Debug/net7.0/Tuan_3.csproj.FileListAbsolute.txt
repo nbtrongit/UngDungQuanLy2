@@ -1,0 +1,15 @@
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\bin\Debug\net7.0\Tuan_3.exe
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\bin\Debug\net7.0\Tuan_3.deps.json
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\bin\Debug\net7.0\Tuan_3.runtimeconfig.json
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\bin\Debug\net7.0\Tuan_3.dll
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\bin\Debug\net7.0\Tuan_3.pdb
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\obj\Debug\net7.0\Tuan_3.csproj.AssemblyReference.cache
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\obj\Debug\net7.0\Tuan_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\obj\Debug\net7.0\Tuan_3.AssemblyInfoInputs.cache
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\obj\Debug\net7.0\Tuan_3.AssemblyInfo.cs
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\obj\Debug\net7.0\Tuan_3.csproj.CoreCompileInputs.cache
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\obj\Debug\net7.0\Tuan_3.dll
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\obj\Debug\net7.0\refint\Tuan_3.dll
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\obj\Debug\net7.0\Tuan_3.pdb
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\obj\Debug\net7.0\Tuan_3.genruntimeconfig.cache
+C:\Users\TRONG-PC\Desktop\git\UngDungQuanLy2\Tuan_3\obj\Debug\net7.0\ref\Tuan_3.dll
