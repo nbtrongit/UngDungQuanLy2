@@ -1,0 +1,15 @@
+﻿<Window x:Class="Tuan_5.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tuan_5"
+        mc:Ignorable="d"
+        Title="Window1" Height="250" Width="350">
+    <Canvas>
+        <Label Content="Số điện thoại" Canvas.Left="10" Canvas.Top="74" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
+        <TextBox Name="telTextBox" Padding="5" Width="189" Height="35" Canvas.Left="95" Canvas.Top="69" HorizontalAlignment="Left" VerticalAlignment="Top"></TextBox>
+        <Button Name="okButton" IsDefault="True" Click="okButton_Click" Width="80" Height="35" Content="Ok" Canvas.Left="95" Canvas.Top="139" HorizontalAlignment="Center" VerticalAlignment="Center"></Button>
+        <Button Name="cancelButton" IsCancel="True" Width="80" Height="35" Content="Cancel" Canvas.Left="204" Canvas.Top="139"></Button>
+    </Canvas>
+</Window>

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Tuan_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tuan_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+    <Canvas>
+        <Image Width="50" Height="50" Source="Images/avatar1.png" Canvas.Top="49" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="160"/>
+        <Label Content="21880154 - Nguyễn Bảo Trọng" Canvas.Left="99" Canvas.Top="116" HorizontalAlignment="Left" VerticalAlignment="Top"></Label>
+        <Label Content="nbtrong73@gmail.com" Canvas.Left="119" Canvas.Top="147" HorizontalAlignment="Left" VerticalAlignment="Top"></Label>
+        <Button Name="dialogButton" Click="dialogButton_Click" Width="80" Height="35" Content="Click" Canvas.Left="145" Canvas.Top="178" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Canvas>
+</Window>
